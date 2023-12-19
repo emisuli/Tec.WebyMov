@@ -1,0 +1,31 @@
+name: memorice_colores
+description: MemoriceColores
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: 1.0.6
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+flutter:
+  assets:
+    - assets/INICIO.JPG
+    - assets/SELECCIONDEMODOS.jpg
+    - assets/MODOSDEJUEGOS.jpg
+    - assets/cartas/carta1.png
+    - assets/cartas/carta2.png
+    - assets/cartas/carta3.png
+    - assets/cartas/carta4.png
+    - assets/cartas/carta5.png
+    - assets/cartas/carta6.png
+    - assets/cartas/carta7.png
+    - assets/cartas/carta8.png
+    - assets/cartas/carta9.png
+    - assets/cartas/carta10.png
+    - assets/placeholder.jpg
+    - assets/VICTORIA.jpg
+    - assets/TROFEO.png
+    
